@@ -1,6 +1,6 @@
 ---
 
-# **Website Monitoring Service**
+# **🚀 Website Monitoring Service**
 
 This service monitors websites, logs status changes, and sends alerts via **Discord Webhooks**. It uses **Flask**, **MySQL**, and **Redis** for efficient monitoring and alerting.
 
@@ -234,5 +234,3 @@ def create_tables():
 - ✅ Improve **thread management**  
 
 ---
-
-This **README** now includes everything about the **database setup**! 🚀 Let me know if you need modifications.
