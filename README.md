@@ -1,5 +1,3 @@
-Your `database.py` is responsible for managing **MySQL database connections** and ensuring that necessary tables are created when the service starts. Here's an updated **README.md** that includes the database setup in more detail.
-
 ---
 
 # **Website Monitoring Service**
