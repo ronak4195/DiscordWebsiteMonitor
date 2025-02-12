@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS status_history (
 )
 ```
 
-### **4️⃣ Set up Redis (Optional for caching)**  
+### **4️⃣ Set up Redis for caching**  
 Ensure **Redis** is installed and running:  
 ```bash
 redis-server --daemonize yes  
